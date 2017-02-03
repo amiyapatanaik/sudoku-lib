@@ -9,6 +9,7 @@ DLL written in visual c++ .net 2005.
 
 **description**: On the fly generation of sudoku.  The sudoku is generated as a string.
 Example: If the generated sudoku is...
+
 |   | 9 |   | 1 |   | 4 | 5 | 8 |   |
 |---|---|---|---|---|---|---|---|---|
 |   | 2 |   | 3 |   |   |   | 9 | 7 |
